@@ -1,2 +1,2 @@
-# installweblogic
-Установка и настройка Weblogic
+# playbooks
+ansible
